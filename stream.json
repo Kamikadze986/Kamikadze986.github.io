@@ -35,7 +35,7 @@
 {"name":"Радио Маруся FM (32)","url":"https://radio-holding.ru:9433/marusya_aac_32","favorite":false},
 {"name":"Радио Маруся FM (64)","url":"https://radio-holding.ru:9000/marusya_aac_64","favorite":false},
 {"name":"Радио Маруся FM (Белгород)","url":"https://radio-holding.ru:9433/marusya_belgorod","favorite":false},
-{"name":"Радио Маруся FM (Белгород) (2)","url":"https://radio-holding.ru:9433/marusya_bel","favorite":false},
+{"name":"Радио Маруся FM (Белгород) (2)","url":"http://radio-holding.ru:9000/marusya_belgorod","favorite":false},
 {"name":"Радио Маруся FM (Волгодонск)","url":"http://listen.vdfm.ru:8000/marusya","favorite":false},
 {"name":"Радио Маруся FM (Киржач)","url":"http://194.226.61.150:8002/marusya","favorite":false},
 {"name":"Радио Маруся FM (Короча)","url":"http://91.214.117.80:9000/marus_korocha","favorite":false},
